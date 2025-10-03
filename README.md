@@ -6,7 +6,7 @@
 
 ---
 
-🎓 I hold a **Master’s degree in Computer Applications (MCA)**  
+🎓 MCA Graduate  
 💡 Passionate about **Web Development**, **AI/ML**, and **Data Structures & Algorithms**  
 🧠 Skilled in building scalable applications with the **MERN stack**, **React**, and **Python**  
 🚀 On a mission to create innovative tech that solves real-world problems  
@@ -17,44 +17,50 @@
 ## 🧭 Who Am I?
 
 - 🔭 Developer · Engineer · Tech Explorer  
-- 💬 Ask me about **DSA**, **React**, **MERN Stack**, or **ML Models**
-- 🌱 Currently growing deeper into **AI automation**, **full-stack app design**, and **cloud services**
-- ⚒️ Building side-projects, contributing to GitHub, and solving Leetcode/DSA challenges
+- 💬 Ask me about **DSA**, **React**, **MERN Stack**, **Python**, or **AI/ML Models**
+- 🌱 Currently growing deeper into **full-stack app design**, **AI automation**, and **cloud services**
+- ⚒️ Building side-projects, contributing to GitHub, and solving coding challenges
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Tools:**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+**Programming Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white) 
+![DSA](https://img.shields.io/badge/DSA-%23FF6F61.svg)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white)
+**Web Development:**  
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) 
+![REST API](https://img.shields.io/badge/RESTful_API-%23007ACC.svg)
 
-**Backend & Databases:**  
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
+**Database Management:**  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black)
 
-**AI/ML & Data Tools:**  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?logo=matplotlib&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
+**Tools & Technologies:**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%231F1F1F.svg?logo=render&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white) 
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%23F6820D.svg?logo=cloudinary&logoColor=white)
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white)
+**Soft Skills:**  
+![Problem-Solving](https://img.shields.io/badge/Problem-Solving-%23007ACC.svg) 
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-%2300BFFF.svg) 
+![Adaptability](https://img.shields.io/badge/Adaptability-%23FF7F50.svg) 
+![Time Management](https://img.shields.io/badge/Time_Management-%23FF6347.svg)
 
 ---
 
@@ -79,12 +85,6 @@
 
 ---
 
-## 🚀 Top Repositories
-
-[![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=SanjayAsokan&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/SanjayAsokan)
-
----
-
 ## 📬 Let’s Connect
 
 <p align="center">
@@ -105,4 +105,3 @@
   🔥 <strong>"Code. Learn. Iterate. Ship."</strong> 🔥 <br />
   <i>Welcome to my journey as a developer.</i>
 </p>
-
