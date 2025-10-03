@@ -10,6 +10,7 @@
 💡 Passionate about **Web Development**, **AI/ML**, and **Data Structures & Algorithms**  
 🧠 Skilled in building scalable applications with the **MERN stack**, **React**, and **Python**  
 🚀 On a mission to create innovative tech that solves real-world problems  
+🌐 Check out my portfolio: [**Visit My Portfolio**](https://portfoliositesanjay.netlify.app/)  
 🤝 Actively seeking to **collaborate** on open-source, full-stack, and ML projects
 
 ---
@@ -17,21 +18,23 @@
 ## 🧭 Who Am I?
 
 - 🔭 Developer · Engineer · Tech Explorer  
-- 💬 Ask me about **DSA**, **React**, **MERN Stack**, **Python**, or **AI/ML Models**
-- 🌱 Currently growing deeper into **full-stack app design**, **AI automation**, and **cloud services**
+- 💬 Ask me about **DSA**, **React**, **MERN Stack**, **Python**, or **AI/ML Models**  
+- 🌱 Currently diving into **full-stack app design**, **AI automation**, and **cloud services**  
 - ⚒️ Building side-projects, contributing to GitHub, and solving coding challenges
 
 ---
 
 ## 💻 Tech Stack
 
-**Programming Languages:**  
+<div align="center">
+
+**Programming Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white) 
 ![DSA](https://img.shields.io/badge/DSA-%23FF6F61.svg)
 
-**Web Development:**  
+**Web Development**  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white) 
@@ -40,12 +43,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) 
 ![REST API](https://img.shields.io/badge/RESTful_API-%23007ACC.svg)
 
-**Database Management:**  
+**Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black)
 
-**Tools & Technologies:**  
+**Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white) 
@@ -56,11 +59,13 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white) 
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%23F6820D.svg?logo=cloudinary&logoColor=white)
 
-**Soft Skills:**  
+**Soft Skills**  
 ![Problem-Solving](https://img.shields.io/badge/Problem-Solving-%23007ACC.svg) 
 ![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-%2300BFFF.svg) 
 ![Adaptability](https://img.shields.io/badge/Adaptability-%23FF7F50.svg) 
 ![Time Management](https://img.shields.io/badge/Time_Management-%23FF6347.svg)
+
+</div>
 
 ---
 
@@ -96,6 +101,9 @@
   </a>
   <a href="https://github.com/SanjayAsokan">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://portfoliositesanjay.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%2300bfff.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
