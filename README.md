@@ -44,9 +44,9 @@
 ![REST API](https://img.shields.io/badge/RESTful_API-%23007ACC.svg)
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white) 
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white) 
