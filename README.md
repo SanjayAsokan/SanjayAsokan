@@ -29,10 +29,10 @@
 <div align="center">
 
 **Programming Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white) 
 ![DSA](https://img.shields.io/badge/DSA-%23FF6F61.svg)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
 
 **Web Development**  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
