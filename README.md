@@ -38,10 +38,10 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) 
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) 
 ![REST API](https://img.shields.io/badge/RESTful_API-%23007ACC.svg)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) 
 
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white) 
